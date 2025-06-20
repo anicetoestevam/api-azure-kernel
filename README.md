@@ -44,7 +44,7 @@ Com este projeto, pude entender melhor:
 ## 👤 Sobre mim
 
 [Estevam - GuruTech]  
-🔗 [LinkedIn]((https://www.linkedin.com/in/estevam-0481b81a7/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/estevam-0481b81a7/)  
 📧 estevam.contatos@gmail.com
 
 ---
