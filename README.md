@@ -1,6 +1,6 @@
 ---
 
-# 🧠Mineração de Conhecimento com Azure AI Search e Uso do Azure OpenAI + Semantic Kernel
+# 🧠 Mineração de Conhecimento com Azure AI Search e Uso do Azure OpenAI + Semantic Kernel
 
 Este projeto tem como objetivo explorar a integração entre tecnologias modernas de busca cognitiva, inteligência artificial e sistemas distribuídos. A partir de avaliações de clientes armazenadas no Azure Blob Storage, foi construída uma solução completa de mineração de conhecimento utilizando o **Azure AI Search**, habilidades de IA do **Azure AI Services** e posterior análise via API do **Azure OpenAI** e orquestração com **Semantic Kernel**.
 
